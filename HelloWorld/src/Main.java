@@ -13,6 +13,7 @@ public class Main {
 			
 			
 			System.out.println("térfogat= "+a*b*c);
+			
 			System.out.println("felszín= "+2*(a*b+b*c+a*c));
 			
 			System.out.println("összeg: "+(a+b));
